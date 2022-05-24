@@ -12,7 +12,9 @@
 #
 ## Links to project: 
 * https://github.com/AndreBlankholm/note-taker
-*
+* https://still-dusk-34337.herokuapp.com
+#
+Screenshot:
 # <img src="./public/assets/images/note-taker-img 2022-05-24 141630.png"  alt="picture of Note Taking app">
 
 
