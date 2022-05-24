@@ -21,18 +21,20 @@ body {
   color: #000000;
   width: 100%;
   outline: none;
-  border: none;
+  border: none;  
 }
 
 .note-textarea {
   resize: none;
   height: calc(100% - 63px);
   padding-top: 15px;
+
 }
 
 .note-title {
-  height: 50px;
+  height: 75px;
   margin-top: 13px;
+  margin-bottom: 20px;
   font-size: 3rem;
 }
 
@@ -75,4 +77,8 @@ body {
   border-right: none;
   padding: 20px;
   cursor: pointer;
+}
+
+.jumbotron {
+  color:rgb(187, 95, 76);
 }
