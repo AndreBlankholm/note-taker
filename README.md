@@ -10,9 +10,9 @@
 ## Installation: 
  * Express must be installed before use.
 #
-## Links to project: 
-* https://github.com/AndreBlankholm/note-taker
-* https://still-dusk-34337.herokuapp.com
+## Links to project 
+* Github: https://github.com/AndreBlankholm/note-taker
+* Heroku: https://still-dusk-34337.herokuapp.com
 #
 Screenshot:
 # <img src="./public/assets/images/note-taker-img 2022-05-24 141630.png"  alt="picture of Note Taking app">
@@ -21,6 +21,6 @@ Screenshot:
 #
 The MIT license 
 ## ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-# License & copyright © Andre Blankholm, U of M Coding Bootcamp
+### License & copyright © Andre Blankholm, U of M Coding Bootcamp
 
 ### Made with ❤️ by Andre Blankholm
